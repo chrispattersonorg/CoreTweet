@@ -27,3 +27,5 @@ after_build:
 artifacts:
   - path: Binary\Nightly
     name: ReleasePackage
+
+
